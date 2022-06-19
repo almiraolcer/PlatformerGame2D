@@ -4,13 +4,15 @@
 The character in the game has to try to avoid traps, enemies and falling into death and must try to reach the finish line at the end of each stage. Character must collect items as much as it can and the number of collected items will show up on the left bottom. There is a health system in the game for the player and enemies, so that they are attacked few times before getting killed. 
 Even though the game has only one stage, it is possible to create more stages in between.
 
-#Project details
+# Project details
 
 There are Player, Enemy Traps that kills the player,  Items that player will pick, platforms that moving side to side and finish line when the level is completed.
+
+
 ![](images/img1.png)
 
 
-#The scripts:
+# The scripts:
 •	Camera Controller: Makes camera to follow the player during the game.
 
 •	Item Collector: Makes player to pick up the items and count how many is collected.
@@ -29,7 +31,7 @@ There are Player, Enemy Traps that kills the player,  Items that player will pic
 
 ![](images/img2.png)
 
-#Animations:
+# Animations:
 Each character has different animations and movements. 
 We use animation and animator system of Unity and each object has its own Animation uniquely.
 
