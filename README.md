@@ -1,5 +1,5 @@
 # PlatformerGame2D
-2D Platformer Game made with Unity
+2D Platformer Game made with Unity and C#
 
 The character in the game has to try to avoid traps, enemies and falling into death and must try to reach the finish line at the end of each stage. Character must collect items as much as it can and the number of collected items will show up on the left bottom. There is a health system in the game for the player and enemies, so that they are attacked few times before getting killed. 
 Even though the game has only one stage, it is possible to create more stages in between.
